@@ -61,13 +61,10 @@ Campaign performance was evaluated by comparing the number of unique visitors at
 Sessions with a NULL campaign value were excluded from campaign-level comparisons because they could not be attributed to a specific marketing campaign.
 Findings:
 
-•	nonbrand generated the highest traffic volume and the largest number of buyers.
-
-•	brand achieved the highest conversion rate at approximately 8.73%, despite generating substantially less traffic than nonbrand.
-
-•	desktop_targeted converted approximately 5.15% of visitors.
-
-•	pilot had the lowest conversion rate at approximately 1.08% and may require further investigation.
+•	**nonbrand** generated the highest traffic volume and the largest number of buyers.
+•	**brand achieved** the highest conversion rate at approximately 8.73%, despite generating substantially less traffic than nonbrand.
+•	**desktop_targeted** converted approximately 5.15% of visitors.
+•	**pilot** had the lowest conversion rate at approximately 1.08% and may require further investigation.
 
 These results demonstrate an important distinction between campaign scale and campaign efficiency: nonbrand generated the most customers, while brand converted its traffic more efficiently.
 
