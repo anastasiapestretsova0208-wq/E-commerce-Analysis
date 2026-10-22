@@ -104,6 +104,8 @@ Based on the analysis:
 
 The Power BI dashboard recreates the core SQL analysis using DAX and presents the results through business-focused KPIs and visualizations.
 
+![E-commerce Performance Dashboard](images/dashboard.png)
+
 The dashboard includes:
 
 - March 2014 vs. March 2015 profit comparison
